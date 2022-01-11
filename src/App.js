@@ -1,9 +1,9 @@
 import './App.css';
-import FilmReleaseBox from './containers/FilmReleaseBox.js';
+import SongsContainer from './containers/SongsContainer.js';
 
 function App() {
   return (
-    <FilmReleaseBox/>
+    <SongsContainer/>
   );
 }
 
